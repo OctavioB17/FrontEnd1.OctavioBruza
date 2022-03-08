@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#descuentos {
+    background-color: #1CD1B0;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    width: 2024px;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+h1 {
+    background-color: #00669F;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    width: 2024px;
+    height: 101px;
+    left: 0px;
+    top: 38px;
+    padding-left: 20px;
+    padding-top: 30px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25)
+}
+
+#fondo1 {
+    border-radius: 16px 16px 0px 0px;
+    position: absolute;
+width: 300px;
+height: 193px;
+left: 32px;
+top: 293px;
+background: url(849bfede3a5193c34ab8a00379e64fa2.jpg);
+
+}
+
+#batman1 {
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 122px;
+    top: 421px;
+    z-index: 10;
+
+    background: url(batman.jpg);
+    border-radius: 50%;
+}
+
+#caja1 {
+    position: absolute;
+width: 300px;
+height: 336px;
+left: 32px;
+top: 485px;
+
+background: #F3F3F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+#batmantextocaja1 {
+    position: absolute;
+    width: 122px;
+    height: 35px;
+    left: 121px;
+    top: 559px;
+    
+    font-family: Roboto;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+#textocaja1 {
+    position: absolute;
+    width: 267px;
+    height: 113px;
+    left: 48px;
+    top: 604px;
+
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+#vermascaja1 {
+    
+}
+
+footer p {
+    background-color: #00669F;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    width: 2024px;
+    height: 51px;
+    left: 0px;
+    top: 971px;
+    padding-left: 10px;
+    padding-top: 2  0px;
+
+
+}
