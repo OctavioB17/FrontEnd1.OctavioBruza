@@ -7,7 +7,7 @@
     background-color: #1CD1B0;
     font-family: 'Roboto', sans-serif;
     position: absolute;
-    width: 2024px;
+    width: 1384px;
     height: 38px;
     left: 0px;
     top: 0px;
@@ -19,7 +19,7 @@ h1 {
     background-color: #00669F;
     font-family: 'Roboto', sans-serif;
     position: absolute;
-    width: 2024px;
+    width: 1384px;
     height: 101px;
     left: 0px;
     top: 38px;
@@ -28,23 +28,33 @@ h1 {
     box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25)
 }
 
+#div1 {
+    position: absolute;
+    width: 300px;
+    height: 529px;
+    left: 200px;
+    top: 293px;
+    color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px 16px 0px 0px;
+}
+
 #fondo1 {
     border-radius: 16px 16px 0px 0px;
     position: absolute;
 width: 300px;
 height: 193px;
-left: 32px;
+left: 400px;
 top: 293px;
 background: url(849bfede3a5193c34ab8a00379e64fa2.jpg);
 
 }
-
-#batman1 {
+.batman1 {
     position: absolute;
     width: 120px;
     height: 118px;
-    left: 122px;
-    top: 421px;
+    left: 95px;
+    top: 129px;
     z-index: 10;
 
     background: url(batman.jpg);
@@ -55,20 +65,21 @@ background: url(849bfede3a5193c34ab8a00379e64fa2.jpg);
     position: absolute;
 width: 300px;
 height: 336px;
-left: 32px;
-top: 485px;
+left: 0px;
+top: 193px;
 
 background: #F3F3F3;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 }
 
-#batmantextocaja1 {
+.batmantextocaja1 {
     position: absolute;
     width: 122px;
     height: 35px;
-    left: 121px;
-    top: 559px;
+    left: 93px;
+    top: 260px;
+    color: black;
     
     font-family: Roboto;
     font-size: 30px;
@@ -76,20 +87,101 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 }
 
-#textocaja1 {
+.textocaja1 {
     position: absolute;
     width: 267px;
     height: 113px;
-    left: 48px;
-    top: 604px;
+    left: 20px;
+    top: 310px;
+    color: black;
 
     font-family: Roboto;
     font-size: 16px;
     line-height: 19px;
 }
 
-#vermascaja1 {
+.vermascaja1 {
+    position: absolute;
+    width: 128.78px;
+    height: 48.52px;
+    left: 80px;
+    top: 460px;
+    padding-left: 32px;
+    padding-top: 15px;
+
+background-color: #00669F;
+}
+
+#div2 {
+    position: absolute;
+    width: 300px;
+    height: 529px;
+    left: 550px;
+    top: 293px;
+    color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px 16px 0px 0px;
+} 
+
+#caja2 {
+    position: absolute;
+    width: 300px;
+    height: 336px;
+    left: 512px;
+    top: 193px;
     
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#batmantextocaja2 {
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 63px;
+    top: 260px;
+    color: black;
+    
+    font-family: Roboto;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+#div3 {
+    position: absolute;
+    width: 300px;
+    height: 529px;
+    left: 900px;
+    top: 293px;
+    color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px 16px 0px 0px;
+}
+
+#batmantextocaja3 {
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 63px;
+    top: 260px;
+    color: black;
+    
+    font-family: Roboto;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+#caja3 {
+    position: absolute;
+    width: 300px;
+    height: 336px;
+    left: 63px;
+    top: 260px;
+    
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 footer p {
